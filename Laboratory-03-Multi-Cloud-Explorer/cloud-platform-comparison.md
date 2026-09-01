@@ -29,3 +29,14 @@ Questions
 4. Which cloud platform would you personally choose and why?
 
 -If i were to choose a cloud computing, I would go with Google Cloud Platform because of its strong capabilities in Artificial Intelligence and machine learning, which are areas I am interested in exploring further.
+
+
+Service Mapping Table (AWS vs Azure vs GCP)
+
+| Service Category | AWS | Azure | GCP |
+|-------------------|-----|-------|-----|
+| Virtual Machine | EC2 (Elastic Compute Cloud) | Virtual Machines | Compute Engine |
+| Object Storage | S3 (Simple Storage Service) | Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Azure Active Directory (Entra ID) | Google Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS (Elastic Kubernetes Service) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
