@@ -58,3 +58,14 @@ Recommended Platform: Microsoft Azure
   
 
 
+Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|------------------------|------------------------|----------------|
+| Startup Company | AWS | Offers flexible pay-as-you-go pricing and a wide range of scalable services, ideal for a growing business with a limited budget. |
+| Enterprise Organization | AWS | Provides the broadest service catalog and largest global infrastructure, suitable for complex, large-scale enterprise needs. |
+| Microsoft Environment | Azure | Seamlessly integrates with existing Microsoft tools such as Windows Server, Active Directory, and Microsoft 365. |
+| AI / Machine Learning | GCP | Offers industry-leading AI/ML tools like Vertex AI and strong native support for TensorFlow. |
+| Kubernetes Deployment | GCP | Google created Kubernetes, giving GCP the most mature and reliable container orchestration support through GKE. |
+| Global Web Application | AWS | Has the largest number of regions and availability zones worldwide, ensuring low latency and high availability for global users. |
+
