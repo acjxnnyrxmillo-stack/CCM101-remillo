@@ -33,4 +33,8 @@ If this Linux server were migrated to the cloud, it could be hosted using Amazon
 
 Screenshot
 <img width="795" height="288" alt="Screenshot 2026-09-01 115610" src="https://github.com/user-attachments/assets/87bbe8f1-67db-486c-897b-8dd1d6b65bb2" />
+<img width="811" height="432" alt="Screenshot 2026-09-01 115935" src="https://github.com/user-attachments/assets/e0de78bf-0ca8-4873-8a7b-6000557cc292" />
+<img width="838" height="267" alt="Screenshot 2026-09-01 120747" src="https://github.com/user-attachments/assets/3bbf2175-5779-4631-811b-7395e096d2d4" />
+<img width="529" height="200" alt="Screenshot 2026-09-01 115959" src="https://github.com/user-attachments/assets/ac3f2484-2709-4d34-bf81-15ce7b67ed06" />
+
 
