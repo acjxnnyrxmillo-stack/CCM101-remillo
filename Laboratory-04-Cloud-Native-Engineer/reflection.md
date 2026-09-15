@@ -1,4 +1,4 @@
-Mission Reflection
+**Mission Reflection**
 
 Docker containers boot dramatically faster than Virtual Machines. Installing an OS on a VM can take 15 minutes or more, since the hypervisor has to allocate resources and boot a full guest OS before anything runs. Deploying the Nginx container in this activity took only seconds, since docker simply pull a pre-built image and starts a process that shares the host's existing kernel. This shows why containers are ideal for fast, repeatable deployments.
 
