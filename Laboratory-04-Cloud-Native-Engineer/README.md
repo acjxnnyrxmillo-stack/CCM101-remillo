@@ -25,14 +25,14 @@ This laboratory activity explores the shift from traditional Virtual Machines (V
 - 'docker ps -a' — Verified the container had stopped
 - 'docker rm my-nginx' — Removed the container completely
 
-  **Skilled Learned**
+ **Skilled Learned**
 
-  - Understanding the architecture differences between VMs and containers
-  - Navigating a cloud-based Linux terminal environment (KillerCoda)
-  - Using the docker CLI to pull, run, and manage containers
-  - Verifying a running web server using curl
-  - Managing the full lifecycle of a container , from creation to removel
-  - Writing clear technical documentation in Markdown
+ - Understanding the architecture differences between VMs and containers
+ - Navigating a cloud-based Linux terminal environment (KillerCoda)
+ - Using the docker CLI to pull, run, and manage containers
+ - Verifying a running web server using curl
+ - Managing the full lifecycle of a container , from creation to removel
+ - Writing clear technical documentation in Markdown
 
   **Challenges Encountered**
 
