@@ -36,4 +36,5 @@ This laboratory activity explores the shift from traditional Virtual Machines (V
 
   **Challenges Encountered**
 
-  -Initially had trouble creating the subfolder structure on GitHub,
+  - Initially had trouble creating the subfolder structure on GitHub, since a file was mistakenly created with the same name as the intended folder. This was resolved by deleting the conflicting file before creating the folder path again.
+  - Finding the correct KillerCoda Docker environment required checking the playgrounds page instead of the docker scenarios page.
